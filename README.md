@@ -18,7 +18,7 @@ The purpose of this project is
 ### Technologies
 
 * Jupyter, Python 3, RStudio
-* torch
+* Pandas, NumPy, sklearn, PyTorch, SciPy
 
 ## Project Description
 
