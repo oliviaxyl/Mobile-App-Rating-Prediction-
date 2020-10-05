@@ -11,14 +11,20 @@ The purpose of this project is
 ### Methods Used
 
 * Exploratory Data Analysis
-* 
-*
-* 
+* Random Forest Regression 
+* K Nearest Neighbors
+* Text Mining
  
 ### Technologies
 
 * Jupyter, Python 3, RStudio
-* Pandas, NumPy, sklearn, PyTorch, SciPy
+* Pandas, NumPy, sklearn, PyTorch, SciPy, Matplotlib
 
 ## Project Description
+
+### Data Source
+
+### 
+
+###
 
