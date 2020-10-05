@@ -46,7 +46,7 @@ The rating score of the app data ranges from 0 to 5, but the number of ratings c
 * K Nearest Neighbors (n_neighbors, leaf_size, Weights, algorithm)
 
 
-### Text mining
+### Text Mining
 
 * Use word2vec to explore text similarity
 * RNN (LSTM & GRU)
