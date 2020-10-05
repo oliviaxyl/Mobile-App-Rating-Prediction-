@@ -22,7 +22,10 @@ The purpose of this project is
 
 ## Project Description
 
-### Data Source
+### Data 
+
+The data was extracted from the iTunes Search API at Apple Inc website. The original data set has
+16 input variables, and total of 7197 observations before data pre-processing.
 
 ### 
 
