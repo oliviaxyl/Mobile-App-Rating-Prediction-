@@ -53,8 +53,4 @@ The rating score of the app data ranges from 0 to 5, but the number of ratings c
 
 ## Result
 
-$ R^{2} $ = 61.9%
-
-$`\sqrt{2}`$.
-
-\alpha
+R-square = 61.9%
