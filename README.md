@@ -39,7 +39,14 @@ The rating score of the app data ranges from 0 to 5, but the number of ratings c
   <img  src="https://user-images.githubusercontent.com/49653689/95032109-53ba4500-0687-11eb-9b73-95ea3945a554.png">
 </p>
 
+### Model Training & Hyperparameter Tuning
+
+* Random Forest ()
+* K Nearest Neighbors ()
 
 
-###
+
+
+
+
 
