@@ -60,10 +60,10 @@ The rating score of the app data ranges from 0 to 5, but the number of ratings c
 
 ### RSE 
 
-* Regression: 0.665
-* Random Forest: 0.268
-* KNN: 0.731
-* RNN: 0.755
-* LightGBM: 0.314
+* Regression: 0.67
+* Random Forest: 0.27
+* KNN: 0.73
+* RNN: 0.76
+* LightGBM: 0.31
 
 
