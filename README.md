@@ -42,6 +42,7 @@ The rating score of the app data ranges from 0 to 5, but the number of ratings c
 
 ### Model Training & Hyperparameter Tuning
 
+* Linear Regression 
 * Random Forest (max_features, n_estimators)
 * K Nearest Neighbors (n_neighbors, leaf_size, Weights, algorithm)
 
@@ -59,6 +60,7 @@ The rating score of the app data ranges from 0 to 5, but the number of ratings c
 
 ### RSE 
 
+* Regression: 0.665
 * Random Forest: 0.268
 * KNN: 0.731
 * RNN: 0.755
