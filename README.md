@@ -51,7 +51,8 @@ The rating score of the app data ranges from 0 to 5, but the number of ratings c
 * RNN (LSTM & GRU)
 
 <p align="center">
-  <img  src="https://user-images.githubusercontent.com/49653689/95031718-6af83300-0685-11eb-93ba-5b009f51c5e7.png">
+  <img  src="https://user-images.githubusercontent.com/49653689/95033818-7fd8c480-068d-11eb-83c6-a7867d1ae577.png">
 </p>
 
 * LightGBM
+
