@@ -6,7 +6,7 @@
 
 ## Project Objective
 
-The purpose of this project is 
+The purpose of this project is to develop models to predict user rating based on various app features and app descriptions. 
 
 ### Methods Used
 
