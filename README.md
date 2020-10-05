@@ -41,8 +41,8 @@ The rating score of the app data ranges from 0 to 5, but the number of ratings c
 
 ### Model Training & Hyperparameter Tuning
 
-* Random Forest ()
-* K Nearest Neighbors ()
+* Random Forest (max_features, n_estimators)
+* K Nearest Neighbors (n_neighbors, leaf_size, Weights, algorithm)
 
 
 
