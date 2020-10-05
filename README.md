@@ -18,7 +18,7 @@ The purpose of this project is to develop models to predict user rating based on
  
 ### Technologies
 
-* Jupyter, Python 3, RStudio
+* Jupyter, Python 3
 * Pandas, NumPy, sklearn, PyTorch, SciPy, Matplotlib
 
 ## Project Description
