@@ -25,7 +25,7 @@ The purpose of this project is to develop models to predict user rating based on
 
 ### Data 
 
-The data was extracted from the iTunes Search API at Apple Inc website. The original data set has
+The data was extracted from the iTunes Search API at Apple. Inc website. The original data set has
 16 input variables, and total of 7197 observations before data pre-processing. The data set is as
 follows:
 
@@ -44,7 +44,7 @@ The rating score of the app data ranges from 0 to 5, but the number of ratings c
 
 * Linear Regression (baseline)
 * Random Forest (max_features, n_estimators)
-* K Nearest Neighbors (n_neighbors, leaf_size, Weights, algorithm)
+* K Nearest Neighbors (n_neighbors, leaf_size, weights, algorithm)
 
 
 ### Text Mining
