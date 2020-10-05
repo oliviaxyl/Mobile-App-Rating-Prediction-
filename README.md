@@ -49,4 +49,9 @@ The rating score of the app data ranges from 0 to 5, but the number of ratings c
 
 * Word2vec
 * RNN (LSTM & GRU)
+
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/49653689/95031718-6af83300-0685-11eb-93ba-5b009f51c5e7.png">
+</p>
+
 * LightGBM
