@@ -51,7 +51,9 @@ The rating score of the app data ranges from 0 to 5, but the number of ratings c
 * RNN (LSTM & GRU)
 * LightGBM
 
+## Result
 
+R^2 = 61.9%
 
 
 
