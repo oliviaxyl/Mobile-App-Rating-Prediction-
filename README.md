@@ -49,7 +49,7 @@ The rating score of the app data ranges from 0 to 5, but the number of ratings c
 
 ### Text Mining
 
-* Use word2vec to explore text similarity
+* Use *word2vec* to explore text similarity
 * RNN (LSTM & GRU)
 
 <p align="center">
