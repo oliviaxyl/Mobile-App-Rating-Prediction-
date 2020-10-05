@@ -13,8 +13,7 @@ The purpose of this project is to develop models to predict user rating based on
 ### Methods Used
 
 * Exploratory Data Analysis
-* Random Forest Regression 
-* K Nearest Neighbors
+* Machine Learning
 * Text Mining
  
 ### Technologies
