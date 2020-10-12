@@ -64,6 +64,6 @@ The rating score of the app data ranges from 0 to 5, but the number of ratings c
 * Random Forest: 0.27
 * KNN: 0.73
 * RNN: 0.76
-* LightGBM: 0.31
+* LightGBM: 0.78
 
 
