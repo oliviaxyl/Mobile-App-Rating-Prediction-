@@ -25,7 +25,7 @@ The purpose of this project is to develop models to predict user rating based on
 
 ### Data 
 
-The data was extracted from the iTunes Search API at Apple. Inc website. The original data set has input variables, and total of 7197 observations before data pre-processing. The data set is as
+The data was extracted from the iTunes Search API at Apple. Inc website. The original data set has 16 independent variables, and total of 7197 observations before data pre-processing. The data set is as
 follows:
 
 <p align="center">
